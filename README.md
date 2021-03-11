@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello I am Ryan and I write code
+<h1 align="center">👋 Hello I am Ryan and I write code...
  
 [![Discord](https://img.shields.io/discord/782377381003919410?label=Discord&logo=Discord)][discord]
 
