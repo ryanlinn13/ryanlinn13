@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello I am Ryan and I write code...
  
-[![Discord](https://img.shields.io/discord/782377381003919410?label=Discord&logo=Discord)][discord]
+[![Discord](https://img.shields.io/discord/612140312940511258?label=Discord&logo=Discord)][discord]
 
 ## I am a FiveM & RedM Developer 
 - ⚡ I am currently developing a brand new RedM Server
