@@ -6,11 +6,12 @@
 - ⚡ I am currently developing a brand new RedM Server
 - ⚡ I am also currently learing c#
 
-- 💬 Ask me all things FiveM and RedM LUA, I will be happy to help
+- 💬 Ask me all things FiveM and RedM LUA, I will be happy to help solve problems and bugs.
+
 - 📫 How to reach me: Use my Discord which is linked below
 
 ### All my Social Accounts: 
-<img align="left" alt="Darkzy| Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />
+<img align="left" alt="Ryanlinn13| Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />
 
 </br>
 
@@ -29,5 +30,5 @@
 📈 My GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ryanlinn13&show_icons=true&theme=gotham" alt="ryanlinn13" />
 
-[discord]: https://discord.gg/QTuvsPd
+[discord]: https://discord.gg/PT6dTdUXMj
 
