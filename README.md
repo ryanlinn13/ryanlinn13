@@ -5,7 +5,7 @@
 ## I am a FiveM & RedM Developer 
 - ⚡ I am currently developing a brand new RedM Server
 - ⚡ I am also currently learing c#
-<img align="right" alt="GIF" src="https://github.com/OfficialDarkzy/OfficialDarkzy/blob/main/code.gif?raw=true" width="500" height="320" />
+
 - 💬 Ask me all things FiveM LUA, I will be happy to help
 - 📫 How to reach me: Use my Discord which is linked below
 
@@ -14,7 +14,6 @@
 
 </br>
 ### Tools & Code Languages: 
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
