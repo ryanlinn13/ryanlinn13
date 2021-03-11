@@ -1,19 +1,13 @@
-<h1 align="center">👋 Hello I am Ryan and I write code...
+<h1 align="center">👋 Hello I am Ryan and I write code things...
  
-[![Discord](https://img.shields.io/discord/782377381003919410?label=Discord&logo=Discord)][discord]
-
 ## I am a FiveM & RedM Developer 
 - ⚡ I am currently developing a brand new RedM Server
+
 - ⚡ I am also currently learing c#
 
 - 💬 Ask me all things FiveM and RedM LUA, I will be happy to help solve problems and bugs.
 
-- 📫 How to reach me: Use my Discord which is linked below
-
-### All my Social Accounts: 
-<img align="left" alt="Ryanlinn13| Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />
-
-</br>
+- 📫 How to reach me: you can send me a message on github
 
 ### Tools & Code Languages: 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -27,8 +21,6 @@
 </br>
 </br>
 </br>
+
 📈 My GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ryanlinn13&show_icons=true&theme=gotham" alt="ryanlinn13" />
-
-[discord]: https://discord.gg/PT6dTdUXMj
-
