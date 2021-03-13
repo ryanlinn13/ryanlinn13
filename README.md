@@ -1,8 +1,7 @@
-<h1 align="center">👋 Hello I am Ryan and I write code things...
+<h1 align="center">👋 Hello I am Ryan and I write code things
  
 ## I am a FiveM & RedM Developer 
-- ⚡ I am currently developing a brand new RedM Server
-
+- ⚡ I am currently working with a team collaboration for a community I am in.
 - ⚡ I am also currently learing c#
 
 - 💬 Ask me all things FiveM and RedM LUA, I will be happy to help solve problems and bugs.
