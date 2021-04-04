@@ -5,5 +5,5 @@
 - ⚡ I am also currently learing c#
 
 - 💬 Ask me all things FiveM and RedM LUA, I will be happy to help solve problems and bugs.
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mojito-Fivem&theme=dark">
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ryanlinn13&show_icons=true&theme=gotham" alt="ryanlinn13" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mojito-Fivem&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=ryanlinn13&show_icons=true&theme=gotham" alt="ryanlinn13" />
